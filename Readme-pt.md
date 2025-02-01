@@ -20,7 +20,7 @@ Este curso oferece uma introdução à linguagem de programação PHP, cobrindo 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/Miguelalmeida01/ProjetoModelNetflix-Next-React.git
+   git clone https://github.com/Miguelalmeida01/curso_Tipos_de_Vari-veis_em_PHP-Dio.git
    ```
 
 2. usar o PHP Server para abrir o projeto no chrome:
@@ -35,4 +35,4 @@ Este curso oferece uma introdução à linguagem de programação PHP, cobrindo 
 
 
 
-<a href="https://github.com/Miguelalmeida01/ProjetoModelNetflix-Next/blob/main/Readme-pt.md#entrega-de-projeto---criando-uma-interface-inspirado-na-netflix" style="color:#B0E0E6">Voltar</a> 
+<a href="https://github.com/Miguelalmeida01/curso_Tipos_de_Vari-veis_em_PHP-Dio/blob/main/Readme-pt.md#entrega-do-curso-tipos-de-vari%C3%A1veis-em-php---dio" style="color:#B0E0E6">Voltar</a> 
